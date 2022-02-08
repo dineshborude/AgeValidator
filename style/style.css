@@ -1,3 +1,23 @@
 body {
-  background: url("C:\Users\acer\Documents\GitHub\AgeValidator\images");
+  background: url("https://github.com/dineshborude/AgeValidator/blob/main/images/cats.jpg?raw=true");
+  background-size: cover;
+  font-family: monospace;
+  text-align: center;
+}
+
+#container {
+  margin: 10%;
+  /* margin-left: 25%; */
+}
+
+#input,
+button,
+p {
+  font-size: 40px;
+  border: none;
+}
+
+#print {
+  font-size: 80px;
+ 
 }
